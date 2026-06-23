@@ -190,3 +190,9 @@
 - sistem cctv kepolisian
 - sistem race Tablet
 - sistem fishit
+
+// list update
+- Rename all mappingan Nexstone ke WARGANET
+- Rename faction Pinky Tiger Club ke Loving Donuts
+- Change logo server
+- Add TD info player"
