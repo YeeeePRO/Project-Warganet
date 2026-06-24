@@ -641,6 +641,8 @@ enum e_player_data
 
 	bool:pCharSelected,
 
+	pAdminTarget,
+
 	pPumpkins,
 	pDj
 };

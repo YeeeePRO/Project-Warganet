@@ -2205,3 +2205,5 @@ new g_FuelRestockAmount[MAX_BIZ];
 
 new TempPasswordLogin[MAX_PLAYERS][128];
 new LoginAttempts[MAX_PLAYERS];
+
+new AdminPanelInputID[MAX_PLAYERS];

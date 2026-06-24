@@ -31,3 +31,4 @@
 #include "core/user-interface/ui_spawnselector"
 // #include "core/user-interface/ui_login"
 //#include "core/user-interface/ui_newyear"
+#include "core/user-interface/ui_paneladmin"
